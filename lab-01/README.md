@@ -8,8 +8,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | ANKAM CHARAN |
-| **Registration Number** | 252U1R1013 |
+| **Name** | BATCHU BHUVAN |
+| **Registration Number** | 252U1R1028 |
 | **Section** | 223 2A |
 | **Course** | Backend Development Fundamentals |
 | **Lab** | Lab 1 – Node.js and Express Server |
